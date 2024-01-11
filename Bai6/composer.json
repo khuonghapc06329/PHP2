@@ -1,0 +1,10 @@
+{
+    "name": "lab2/bai6",
+    "description": "lab2 php2 bai6",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {}
+}
