@@ -1,0 +1,10 @@
+{
+    "name": "lap4/php2",
+    "description": "bài lab4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {}
+}
