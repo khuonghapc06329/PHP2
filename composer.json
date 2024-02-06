@@ -1,0 +1,10 @@
+{
+    "name": "khuonghapc06329/assignmentphp2",
+    "description": "khuonghapc06329_assignment_php2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./App/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,27 @@
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="copyright-box">
+                    <p class="copyright">&copy; Copyright <strong>DEV</strong>. All Rights Reserved</p>
+                    <div class="credits">
+                        <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
+                -->
+                        Thiết kế bởi <a href="">DEV</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</section>
+<!--/ Section Contact-footer End /-->
+
+<!-- <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    <div id="preloader"></div> -->
+
+</body>
